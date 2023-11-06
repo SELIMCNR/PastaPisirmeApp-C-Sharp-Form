@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\bin\Debug\net6.0-windows\PastaPisirmeApp.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\bin\Debug\net6.0-windows\PastaPisirmeApp.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\bin\Debug\net6.0-windows\PastaPisirmeApp.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\bin\Debug\net6.0-windows\PastaPisirmeApp.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\bin\Debug\net6.0-windows\PastaPisirmeApp.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\refint\PastaPisirmeApp.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\PastaPisirmeApp.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project15\PastaPisirmeApp\PastaPisirmeApp\obj\Debug\net6.0-windows\ref\PastaPisirmeApp.dll
